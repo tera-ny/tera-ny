@@ -2,11 +2,11 @@
 
 ## My technical portfolio
 
-https://github.com/tera-ny/OrangeJuiceWeb<br/>
-<a href="https://orange-juice.app">
+https://github.com/tera-ny/Raspberry-Juice<br/>
+<a href="https://raspberry-juice.com">
 <img
   className="logo"
-  src="https://raw.githubusercontent.com/tera-ny/OrangeJuiceWeb/main/public/img/logo_light.svg"
+  src="https://raw.githubusercontent.com/tera-ny/Raspberry-Juice/main/public/img/logo_full_light.svg"
   width=50%
 />
 </a>
