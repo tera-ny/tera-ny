@@ -2,7 +2,6 @@
 
 ## My technical portfolio
 
-https://github.com/tera-ny/Raspberry-Juice<br/>
 <a href="https://raspberry-juice.com">
 <img
   className="logo"
@@ -10,8 +9,12 @@ https://github.com/tera-ny/Raspberry-Juice<br/>
   width=50%
 />
 </a>
+<br />
+<br />
 
-## Link
-- [Twitter](https://twitter.com/tera_ny)
-- [Github](https://github.com/tera-ny)
-- [Zenn](https://zenn.dev/tera_ny)
+[Repository](https://github.com/tera-ny/Raspberry-Juice)
+
+<hr />
+<a href="https://github.com/tera-ny"><img src="https://img.shields.io/badge/Github-tera_ny-orange?style=flat&logo=github" /></a>
+<a href="https://twitter.com/tera_ny"><img src="https://img.shields.io/badge/Twitter-tera_ny-purple?style=flat&logo=twitter" /></a>
+<a href="https://zenn.dev/tera_ny"><img src="https://img.shields.io/badge/Zenn-tera_ny-blue?style=flat&logo=zenn" /></a>
