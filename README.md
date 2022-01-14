@@ -1,18 +1,20 @@
 # 👋 Hi, I’m @tera-ny
 
 ## My technical portfolio
-
-<a href="https://raspberry-juice.com">
+<br/>
+<br/>
+<a href="https://github.com/tera-ny/Raspberry-Juice">
 <img
   className="logo"
   src="https://raw.githubusercontent.com/tera-ny/Raspberry-Juice/main/public/img/logo_full_light.svg"
   width=50%
 />
 </a>
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
 
-[Repository](https://github.com/tera-ny/Raspberry-Juice)
 
 <hr />
 <a href="https://github.com/tera-ny"><img src="https://img.shields.io/badge/Github-tera_ny-orange?style=flat&logo=github" /></a>
