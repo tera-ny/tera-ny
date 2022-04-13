@@ -18,5 +18,5 @@
 
 <hr />
 <a href="https://github.com/tera-ny"><img src="https://img.shields.io/badge/Github-tera_ny-orange?style=flat&logo=github" /></a>
-<a href="https://twitter.com/tera_ny"><img src="https://img.shields.io/badge/Twitter-tera_ny-purple?style=flat&logo=twitter" /></a>
+<a href="https://twitter.com/0x746572616e79"><img src="https://img.shields.io/badge/Twitter-0x746572616e79-purple?style=flat&logo=twitter" /></a>
 <a href="https://zenn.dev/tera_ny"><img src="https://img.shields.io/badge/Zenn-tera_ny-blue?style=flat&logo=zenn" /></a>
