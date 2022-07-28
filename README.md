@@ -6,7 +6,7 @@
 <a href="https://github.com/tera-ny/Raspberry-Juice">
 <img
   className="logo"
-  src="https://raw.githubusercontent.com/tera-ny/Raspberry-Juice/main/public/img/logo_full_light.svg"
+  src="https://raw.githubusercontent.com/tera-ny/Raspberry-Juice/main/frontend/public/img/logo_full_light.svg"
   width=50%
 />
 </a>
