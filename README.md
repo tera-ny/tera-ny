@@ -3,7 +3,7 @@
 ## My technical portfolio
 <br/>
 <br/>
-<a href="https://github.com/tera-ny/Raspberry-Juice">
+<a href="https://github.com/tera-ny/Raspberry-Juice/blob/main/frontend/README.md">
 <img
   className="logo"
   src="https://raw.githubusercontent.com/tera-ny/Raspberry-Juice/main/frontend/public/img/logo_full_light.svg"
